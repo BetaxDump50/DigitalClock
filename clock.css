@@ -1,0 +1,22 @@
+/* Styling of Clock */
+
+body {
+    /* color: blue; */
+    background-color: rgb(60, 0, 255);
+}
+
+.time {
+    width: 80%;
+    height: 20%;
+}
+
+.sign {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(253, 160, 60);
+    text-align: right;
+    margin-bottom: 7rem;
+    margin-left: -10rem;
+  }
