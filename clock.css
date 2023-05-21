@@ -5,9 +5,17 @@ body {
     background-color: rgb(60, 0, 255);
 }
 
-.time {
-    width: 80%;
-    height: 20%;
+.title{
+    color: white;
+}
+
+.text{
+    color: white;
+}
+
+#time {
+    font-size: 100px;
+    text-align: center;
 }
 
 .sign {
